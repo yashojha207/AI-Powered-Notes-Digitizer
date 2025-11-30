@@ -1,0 +1,9 @@
+streamlit>=1.20
+opencv-python
+pillow
+pytesseract
+transformers
+torch
+sentencepiece
+python-multipart
+numpy
