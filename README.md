@@ -1,6 +1,7 @@
 # AI Notes Digitizer
 
 A Streamlit app that digitizes handwritten notes using GPT OCR.
+<img width="1913" height="907" alt="dashboard" src="https://github.com/user-attachments/assets/f88bcd27-bfde-416a-bc78-25bd6545ea17" />
 
 ## Features
 - Upload images or PDF pages
